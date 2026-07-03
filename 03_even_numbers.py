@@ -10,6 +10,4 @@ print("another method")
 k=2
 while k<=100:
     print(k)
-    k += 2
-
-    
+    k += 2    

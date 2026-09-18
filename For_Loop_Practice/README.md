@@ -1,0 +1,1 @@
+This repository contains Python programs based on **for loops** for beginners. It includes number printing, factorial, Fibonacci series, prime numbers, factors, HCF, LCM, multiplication tables, squares, cubes, and other mathematical problems. These programs help improve Python programming, logical thinking, and problem-solving skills through hands-on practice with the `for` loop.

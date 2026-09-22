@@ -1,4 +1,5 @@
 #Find and print the sum of all factors of the given number
+
 n = int(input("Enter number: "))
 total = 0
 print("Factors: ",end=" ")

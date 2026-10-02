@@ -1,4 +1,5 @@
 #  Square Star pattern
+   #  -> Rows = Columns
 # * * * * * 
 # * * * * * 
 # * * * * * 

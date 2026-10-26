@@ -1,0 +1,10 @@
+# E E E E E
+# D D D D
+# C C C
+# B B
+# A
+n = int(input("Enter number of rows: "))
+for i in range(n,0,-1):
+    for j in range(i):
+        print(chr(64+i),end=" ")
+    print()    
